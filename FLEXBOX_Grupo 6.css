@@ -180,6 +180,12 @@ html {
         height: 105vh;
     }
 }
+header {
+    img {
+        width: 15vw;
+        height: 10vh;
+        display: inline-block;
+    }}
 
 
 
@@ -236,7 +242,7 @@ html {
         text-align: justify;
 
         img {
-            width: 10vw;
+            width: 15vw;
             height: 10vh;
             display: inline-block;
         }
